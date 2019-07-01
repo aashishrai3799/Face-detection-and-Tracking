@@ -14,7 +14,8 @@ This is an implementation of MTCNN. MTCNN gives 5 keypoints in a face, using tho
 
 <img src="https://github.com/aashishrai3799/Face-detection-MTCNN/blob/master/sample_images/input_3.jpg" width="480">
 <img src="https://github.com/aashishrai3799/Face-detection-MTCNN/blob/master/sample_images/input_2.jpg" width="480">
+<img src="https://github.com/aashishrai3799/Face-detection-MTCNN/blob/master/sample_images/input_4.jpg" width="480">
+<img src="https://github.com/aashishrai3799/Face-detection-MTCNN/blob/master/sample_images/input_1.jpg" width="480">
 
-<img src="https://github.com/aashishrai3799/Face-detection-MTCNN/blob/master/sample_images/Screenshot%20from%202019-07-01%2014-01-00.png" width="200">
 
 
