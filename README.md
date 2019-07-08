@@ -8,6 +8,13 @@ MTCNN (Multi-task Cascaded Convolutional Neural Networks) is an algorithm consis
 ## Working
 This is an implementation of MTCNN. MTCNN gives 5 keypoints in a face, using those 5 keypoints, this code generates 4 more keypoints. It can detect multiple faces in an image or in live webcam feed. 
 
+## Libraries
+* opencv _ _ _ _ _ _ 4.1
+* tensorflow _ _ _ _ 1.14
+* numpy _ _ _ _ _ _ 1.16
+* os
+* mtcnn
+
 ## Sample Images
 
 
